@@ -1,0 +1,26 @@
+# ninja log v5
+4	245	6717266686283264	build.ninja	98c634841d9a441f
+388	540	6717383132835824	recurs_problema2.exe	a5f9acbffb58e3d9
+5	387	6717383131306434	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+3	384	6717383305371470	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+384	534	6717383306851093	recurs_problema2.exe	a5f9acbffb58e3d9
+4	381	6717383461506407	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+382	528	6717383462976464	recurs_problema2.exe	a5f9acbffb58e3d9
+3	397	6717383611963306	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+397	548	6717383613465735	recurs_problema2.exe	a5f9acbffb58e3d9
+3	377	6717384086994021	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+377	521	6717384088430048	recurs_problema2.exe	a5f9acbffb58e3d9
+3	443	6717384808471641	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+443	613	6717384810171636	recurs_problema2.exe	a5f9acbffb58e3d9
+3	373	6717385924794691	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+373	523	6717385926271387	recurs_problema2.exe	a5f9acbffb58e3d9
+4	358	6717386764923638	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+359	502	6717386766343642	recurs_problema2.exe	a5f9acbffb58e3d9
+2	342	6717400228004862	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+342	486	6717400229429477	recurs_problema2.exe	a5f9acbffb58e3d9
+6	360	6717401015986789	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+360	511	6717401017491630	recurs_problema2.exe	a5f9acbffb58e3d9
+3	380	6717401209790925	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+381	549	6717401211491080	recurs_problema2.exe	a5f9acbffb58e3d9
+3	369	6717407201278963	CMakeFiles/recurs_problema2.dir/problema2.cpp.obj	6510394a9e526530
+369	524	6717407202821804	recurs_problema2.exe	a5f9acbffb58e3d9
